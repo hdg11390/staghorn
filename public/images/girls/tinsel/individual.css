@@ -1,0 +1,113 @@
+@charset "utf-8";
+.body {
+
+	background-color: #FFF;
+
+	margin: 0px;
+
+	background-image: url(../images/bgpng.png);
+
+}
+.body {
+	background-color: rgba(153,176,193,1.00);
+}
+.body {
+}
+.body .container-fluid.band-hero {
+	max-width: 970px;
+	width: 970px;
+	background-color: #FFFFFF;
+}
+.body {
+}
+.body .container-fluid.pagetitle {
+	background-color: #FFFFFF;
+	width: 970px;
+}
+
+
+
+
+
+.navbar {
+
+	background-color: #FFF;
+
+	height: 30px;
+
+	width: 970px;
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+}
+
+
+
+.navlinks {
+
+	margin: 0;
+
+	padding: 0.25em 1.0em;
+
+	background: #245775;
+
+	color: #CDC5BF;
+
+	text-align: center;
+
+	font-family: Verdana, Geneva, sans-serif;
+
+	font-size: 12px;
+
+}
+
+
+
+
+
+.navlinks li {
+
+	display: inline;
+
+	margin-right: 0.25em; padding-right: 0.5em;
+
+	border-right: 2px solid #C0C0C0;
+
+	font-weight: bold;
+
+}
+
+
+
+.navlinks li.last {
+
+	border-right: 0;
+
+}
+
+
+
+.navlinks a {
+
+	color: #FFF5EE;
+
+	text-decoration: none;
+
+}
+
+.navlinks li a:hover {
+
+	color: #245775;
+
+	background-color: #FFF;
+
+}
+.pagetitle {
+}
+.title {
+	font-size: 14px;
+	font-weight: 700;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
